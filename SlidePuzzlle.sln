@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimalWpfUI", "SlidePuzzlle\MinimalWpfUI.csproj", "{CA3290C3-0931-4E41-A7A7-45CD2F86B799}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfUI", "SlidePuzzlle\WpfUI.csproj", "{CA3290C3-0931-4E41-A7A7-45CD2F86B799}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TilePuzzle", "TilePuzzle\TilePuzzle.csproj", "{D435FD05-0D9E-436C-A8AD-340AF7B9DFAF}"
 EndProject

@@ -2,6 +2,7 @@
 
 using System.Windows;
 using TilePuzzle;
+using WpfUI;
 
 
 namespace MinimalWpfUI
