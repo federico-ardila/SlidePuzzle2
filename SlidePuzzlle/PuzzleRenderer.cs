@@ -4,7 +4,7 @@ using System.Windows.Controls;
 using System.Windows.Input;
 using TilePuzzle;
 
-namespace MinimalWpfUI
+namespace WpfUI
 {
     public class PuzzleRenderer
     {
